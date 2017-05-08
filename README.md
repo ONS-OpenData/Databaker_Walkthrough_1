@@ -1,6 +1,6 @@
 # simple_Databaker_Walkthrough
 
-explains basic databaker logic and process via  jupyter notebook. Example is included
+explains basic databaker logic and process via the "Walkthrough 1" jupyter notebook. Example is included
 
 this should work fine as a just a document to read, but if you want to run the example recipe at the end you'll need to download the "databakerExample.xlsx" included in this repo and have databaker installed on your machine.
 
